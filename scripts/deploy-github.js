@@ -8,6 +8,6 @@ ghpages.publish(
     repo: 'https://github.com/maciek-tomczak/maciek.github.io.git',
   },
   () => {
-    console.log('Deploy Complete!')
+    console.log('Deploy Complete!!')
   }
 )
