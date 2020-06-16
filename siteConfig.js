@@ -1,7 +1,7 @@
 module.exports = {
   name: 'Maciek Tomczak',
   shortName: 'Maciek',
-  description: 'Hi! I am Maciek and this site is accompanying work I like to do.',
+  description: 'I invite you to check out what I\'ve been up to.',
   url: 'https://maciek-tomczak.github.io/maciek.github.io', // Domain of your site without prefix!
   prefix: '/',
   author: 'Maciek'

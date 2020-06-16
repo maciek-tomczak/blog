@@ -1,7 +1,7 @@
 ---
 title: Audio Style Transfer with Rhythmic Constraints
 date: "2018-04-16"
-tags: [audio-style-transfer,ML]
+tags: [audio-style-transfer,redrumming,ML]
 description: Results supplementing the paper "Audio Style Transfer with Rhythmic Constraints" for the International Conference on Digital Audio Effects 2018.
 
 ---

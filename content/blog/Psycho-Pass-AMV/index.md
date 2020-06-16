@@ -1,9 +1,9 @@
 ---
-title: Psycho-Pass Anime Music Video
+title: Psycho-Pass AMV
 date: "2014-12-17"
 tags: [AMV]
-description: An anime music video I made available in link below https://youtu.be/V35so0_eWDE
-thumbnail: ./pp.jpg
+description: An anime music video I made available in link below
+thumbnail: ./pp_w.jpg
 
 ---
 
