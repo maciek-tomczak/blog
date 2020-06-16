@@ -64,13 +64,15 @@
     "url": "https://github.com/maciek-tomczak/maciek.github.io"
   },
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "format": "prettier --write src/**/*.{js,jsx}",
+	"build": "gatsby build",
+	"clean": "rm -rf public .cache",
+	"develop": "gatsby develop",
+	"format": "prettier --write \"src/**/*.js\"",
 	"serve:build": "npm run clean && npm run build && http-server ./public",
-    "start": "npm run develop",
-    "start:prod": "npm run build && npm run serve:build",
-    "deploy:github": "gatsby build --prefix-paths && npm run build && node ./scripts/deploy-github"
+	"start": "npm run develop",
+	"start:prod": "npm run build && npm run serve:build",
+	"deploy:github": "gatsby build --prefix-paths && npm run build && node ./scripts/deploy-github",
+	"test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "husky": {
     "hooks": {
