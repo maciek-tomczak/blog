@@ -11,3 +11,14 @@ ghpages.publish(
     console.log('Deploy Complete!')
   }
 )
+
+ghpages.publish(
+  'public',
+  {
+    branch: 'gh-pages',
+    repo: 'https://github.com/maciek-tomczak/maciek.github.io.git',
+  },
+  () => {
+    console.log('Deploy Complete!')
+  }
+)
