@@ -6,7 +6,7 @@ tags: [wavenet,redrumming,ML]
 
 ---
 
-|  |                  **[Tomczak, M., J., Drysdale, J., Hockman, Drum Translation for Timbral and Rhythmic Transformation, Proceedings of the 22nd International Conference on Digital Audio Effects (DAFx-19), Birmingham, United Kingdom, September 4–8, 2019.](http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf)**|
+|  |                  **[Tomczak, M., J., Drysdale, J., Hockman, Drum Translation for Timbral and Rhythmic Transformation, Proceedings of the 22nd International Conference on Digital Audio Effects (DAFx-19), Birmingham, United Kingdom, September 2–6, 2019.](http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf)**|
 | :---- | :--- |
 
 
