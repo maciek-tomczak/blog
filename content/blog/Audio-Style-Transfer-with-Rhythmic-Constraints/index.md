@@ -1,13 +1,13 @@
 ---
 title: Audio Style Transfer with Rhythmic Constraints
 date: "2018-04-16"
-tags: [audio-style-transfer,redrumming,ML]
-description: Results supplementing the paper "Audio Style Transfer with Rhythmic Constraints" for the International Conference on Digital Audio Effects 2018.
+tags: [audio-style-transfer, redrumming, ML]
+description: Results supplementing the paper for the International Conference on Digital Audio Effects (DAFx) 2018.
+---|     | **[Tomczak, M.](https://maciek-tomczak.github.io/), [C., Southall](https://scholar.google.co.uk/citations?user=BrvdPboAAAAJ&hl=en), [J., Hockman](https://www.bcu.ac.uk/digital-technology/about-us/our-expertise/our-staff/jason-hockman), [Audio Style Transfer with Rhythmic Constraints, Proceedings of the 21st International Conference on Digital Audio Effects (DAFx), Aveiro, Portugal, September 4–8, 2018.](https://ant-s4.unibw-hamburg.de/dafx/paper-archive/2018/papers/DAFx2018_paper_48.pdf)** |
+| :-- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
----
 
-|  |                  **[Tomczak, M., C., Southall, J., Hockman, Audio Style Transfer with Rhythmic Constraints,                    Proceedings of the 21st International Conference on Digital Audio Effects (DAFx-18), Aveiro, Portugal, September 4–8, 2018.](https://ant-s4.unibw-hamburg.de/dafx/paper-archive/2018/papers/DAFx2018_paper_48.pdf)**|
-| :---- | :--- |
+### Audio examples
 
 The presented 15 transformation pairs were tested with 3 different loss terms L1, L2 and L3 defined in the [paper](https://ant-s4.unibw-hamburg.de/dafx/paper-archive/2018/papers/DAFx2018_paper_48.pdf), as well as, several additional audio style transfer (AST) transformations. In addition, transformations acquired with default parameters from AST approaches by Barry et al. (2018), Mital (2017) and Ulyanov et al. (2016) are included with the results. Inputs A and B refer to terms <i>content</i> and <i>style</i> used by the authors of the compared papers.
 
@@ -50,6 +50,7 @@ Mashup transformations using L2.
 </center>
 
 ---
+
 Transformation comparisons.
 
 <center>
@@ -651,8 +652,6 @@ Transformation comparisons.
 </center>
 
 ---
-
-
 
 ### References:
 

@@ -2,14 +2,20 @@
 title: Drum Synthesis and Rhythmic Transformation with Adversarial Autoencoders
 date: "2020-07-01T22:20:00.284Z"
 tags: [redrumming, ML]
-description: "Audio examples accompanying paper for ACM International Conference on Multimedia 2020."
+description: Audio examples accompanying paper for ACM International Conference on Multimedia (ACM MM) 2020.
 ---
+
+|     | **[Tomczak, M.](https://maciek-tomczak.github.io/), [M., Goto](https://staff.aist.go.jp/m.goto/), [J., Hockman](https://www.bcu.ac.uk/digital-technology/about-us/our-expertise/our-staff/jason-hockman), [Drum Synthesis and Rhythmic Transformation with Adversarial Autoencoders, Proceedings of the 28th ACM International Conference on Multimedia (ACM MM), Seattle, WA, USA, October 12–16, 2020.](https://doi.org/10.1145/3394171.3413519)** |
+| :-- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
+<!-- []](https://doi.org/10.1145/3394171.3413519) -->
+
+Work conducted during an internship at [Media Interaction Group](https://staff.aist.go.jp/m.goto/MIG/index-j.html), National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Japan.
 
 ### 1. Audio synthesis with trained generator (G)
 
-We demonstrate reconstruction of bar-length drum patterns from the trained generator model.
-
-Examples at 22.05kHz sample rate are recreated with Griffin-Lim algorithm together with their corresponding output from the proposed AAE-GM model. More detailed information about data used here can be viewed in Section 3.1 of the paper.
+We demonstrate reconstruction of bar-length drum patterns from the generator model trained on real drum recordings described in the [paper](https://doi.org/10.1145/3394171.3413519). Examples at 22.05kHz sample rate are recreated with Griffin-Lim algorithm together with their corresponding output from the proposed AAE-GM model. More detailed information about data used here can be viewed in Section 3.1 of the paper.
 
 <figure>
 <figcaption><b>Source</b></figcaption>

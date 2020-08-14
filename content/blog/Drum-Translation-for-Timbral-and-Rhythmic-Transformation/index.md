@@ -1,23 +1,18 @@
 ---
 title: Drum Translation for Timbral and Rhythmic Transformation
 date: "2019-04-12"
-description: Results supplementing the paper "Drum Translation for Timbral and Rhythmic Transformation" for the International Conference on Digital Audio Effects 2019.
-tags: [wavenet,redrumming,ML]
-
----
-
-|  |                  **[Tomczak, M., J., Drysdale, J., Hockman, Drum Translation for Timbral and Rhythmic Transformation, Proceedings of the 22nd International Conference on Digital Audio Effects (DAFx-19), Birmingham, United Kingdom, September 2–6, 2019.](http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf)**|
-| :---- | :--- |
-
+description: Results supplementing the paper for the International Conference on Digital Audio Effects (DAFx) 2019.
+tags: [wavenet, redrumming, ML]
+---|     | **[Tomczak, M.](https://maciek-tomczak.github.io/)., [J., Drysdale](https://scholar.google.ch/citations?user=t2Zm6aoAAAAJ&hl=en&oi=ao), [J., Hockman](https://www.bcu.ac.uk/digital-technology/about-us/our-expertise/our-staff/jason-hockman), [Drum Translation for Timbral and Rhythmic Transformation, Proceedings of the 22nd International Conference on Digital Audio Effects (DAFx), Birmingham, United Kingdom, September 2–6, 2019.](http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf)** |
+| :-- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 Poster available [here](./dafx19-poster.pdf).
 
-Audio examples include:
+### Audio examples
 
-* 6 transformations created with the proposed automatic drum translation system
-* 20 transformation pairs used in rhythmic evaluation of the system (Sections 3.2 and 4.1 in the <a href="http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf">paper</a>)
-
+- 6 transformations created with the proposed automatic drum translation system
+- 20 transformation pairs used in rhythmic evaluation of the system (Sections 3.2 and 4.1 in the <a href="http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_25.pdf">paper</a>)
 
 ![Automatic drum translation process](./adt-dt.png)
 
